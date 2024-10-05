@@ -19,10 +19,6 @@ header h1 {
     margin: 0;
 }
 
-h2 {
-    text-align: center;
-}
-
 nav ul {
     list-style: none;
     display: flex;
@@ -38,6 +34,9 @@ nav ul li a {
     text-decoration: none;
 }
 
+h2 {
+    text-align: center;
+}
 
 .image {
     text-align: center;
@@ -83,7 +82,7 @@ footer {
     background-color: #333;
     color: white;
     text-align: center;
-    padding: 5px;
+    padding: 10px;
     position: fixed;
     bottom: 0;
     width: 100%;
